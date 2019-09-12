@@ -12,7 +12,7 @@ if __name__ == "__main__":
     else:
         print("{} arguments:".format(counter))
 
-    if counter >=1:
+    if counter >= 1:
         counter = 0
 
         for arguments in sys.argv:
