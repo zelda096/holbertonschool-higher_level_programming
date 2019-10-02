@@ -88,4 +88,3 @@ class Square:
                     else:
                         print('#', end='')
                 print('')
-
