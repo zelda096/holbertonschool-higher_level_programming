@@ -1,0 +1,1 @@
+Create teh first code in js with variables like let, var, const
